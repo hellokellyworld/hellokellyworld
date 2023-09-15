@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hellokellyworld
+- 👋 Hi, I’m Wenzheng Kelly Kang @hellokellyworld
 - 🌱 I’m currently working as a full stack developer and just completed MS in CS at Johns Hopkins University.
 - 📖 I shine my own lights on our community. Read about my works [here](https://medium.com/p/d58325daf1da/edit).
 - 📫 How to reach me: wkang9@alumni.jh.edu
