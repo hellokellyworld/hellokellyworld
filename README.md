@@ -2,7 +2,7 @@ Hi, I’m Kelly Kang, also known as @hellokellyworld on GitHub!
 
 - 🌱 Full stack developer passionate about AI
 - 🚗 Racing Enthusiast: Love speed, horsepower, and aerodynamics
-- 📖 Blogger: Sharing my tech journey [here] (https://twitter.com/KKCodeBrew)
+- 📖 Blogger: Sharing my tech journey [here](https://twitter.com/KKCodeBrew)
 - 📫 Contact: Email me at wkang9@alumni.jh.edu for tech and racing discussions
 
 <!---
